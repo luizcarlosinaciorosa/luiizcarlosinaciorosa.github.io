@@ -250,7 +250,7 @@
 
   <!-- Footer -->
   <footer class="text-center corSecundaria textoFooter">
-    <p class="textoBranco">Copyright 2023 Agente de Organização Escolar</p>
+    <p class="textoBranco">Copyright 2023 Luiz CarlosInácio Rosar</p>
   </footer>
 
 </body>
